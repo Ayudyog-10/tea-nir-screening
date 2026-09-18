@@ -1,0 +1,10 @@
+{
+  "batch_accuracy": 0.7520467836257311,
+  "batch_chance": 0.08695652173913043,
+  "grade_accuracy": 0.1298245614035088,
+  "grade_chance": 0.14130434782608695,
+  "form_accuracy": 0.99,
+  "within_scan_sd": 0.0017180301044779356,
+  "between_sample_sd": 0.011486660223965979,
+  "signal_to_repeatability_ratio": 6.685948164718845
+}

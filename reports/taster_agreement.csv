@@ -1,0 +1,6 @@
+attribute,n,correlation,mean_abs_difference,exact_agreement,sd_taster1
+Brightness,59,0.62,0.71,46,1.26
+Briskness,59,0.61,0.51,68,1.16
+Strength,57,0.63,0.42,70,0.95
+Colour,58,0.6,0.88,43,1.52
+Overall Quality,57,0.56,0.7,54,1.35

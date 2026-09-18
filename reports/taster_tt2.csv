@@ -1,0 +1,61 @@
+,Brightness,Brightness_desc,Briskness,Briskness_desc,Strength,Strength_desc,Colour,Colour_desc,Overall Quality,Overall Quality_desc,With Milk,With Milk_desc,Taster Score,Infusion
+1,4,Fair,3,Only Fair,4,Fair,5,Fairly Good,4,Fair,x,Fair,#NAME?,Dull
+2,5,Fairly Good,3,Only Fair,3,Only Fair,7,Good,5,Fairly Good,x,Bright,#NAME?,Fairly Bright
+3,4,Fair,3,Only Fair,3,Only Fair,5,Fairly Good,4,Fair,x,Fair,#NAME?,Brighter
+4,5,Fairly Good,4,Fair,3,Only Fair,7,Good,4,Fair,x,Bright,#NAME?,Fairly Bright
+5,7,Good,7,Good,7,Good,9,Very Good,9,Very Good,x,Bright,#NAME?,Dull
+6,3,Only Fair,3,Only Fair,4,Fair,3,Only Fair,3,Only Fair,x,Fair,#NAME?,Brighter
+7,4,Fair,4,Fair,5,Fairly Good,4,Fair,4,Fair,x,Bright,#NAME?,Very Dull
+8,3,Only Fair,4,Fair,4,Fair,3,Only Fair,4,Fair,x,Fair,#NAME?,Dull
+9,,,,,,,,,,,,,170,Fairly Bright
+10,3,Only Fair,4,Fair,4,Fair,3,Only Fair,4,Fair,x,Fair,#NAME?,Dull
+11,3,Only Fair,3,Only Fair,5,Fairly Good,5,Fairly Good,4,Fair,x,Fair,#NAME?,Dull
+12,4,Fair,4,Fair,4,Fair,4,Fair,4,Fair,x,Bright,#NAME?,Dull
+13,3,Only Fair,3,Only Fair,5,Fairly Good,5,Fairly Good,4,Fair,x,Fair,#NAME?,Fairly Bright
+14,4,Fair,5,Fairly Good,5,Fairly Good,4,Fair,5,Fairly Good,x,Fair,#NAME?,Dull
+15,3,Only Fair,7,Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Bright,#NAME?,Fairly Bright
+16,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Fair,#NAME?,Fairly Bright
+17,5,Fairly Good,5,Fairly Good,5,Fairly Good,4,Fair,5,Fairly Good,x,Fair,#NAME?,Fairly Bright
+18,3,Only Fair,7,Good,3,Only Fair,5,Fairly Good,5,Fairly Good,x,Fair,#NAME?,Dull
+19,3,Only Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,7,Good,4,Fair,#NAME?,Dull
+20,5,Fairly Good,5,Fairly Good,3,Only Fair,4,Fair,5,Fairly Good,x,Bright,#NAME?,Fairly Bright
+21,5,Fairly Good,3,Only Fair,3,Only Fair,5,Fairly Good,4,Fair,x,Bright,#NAME?,Dull
+22,4,Fair,4,Fair,4,Fair,4,Fair,4,Fair,5,Fair,#NAME?,Only Fair
+23,3,Only Fair,2,Poor,4,Fair,3,Only Fair,2,Poor,x,Dull,#NAME?,Dull
+24,4,Fair,5,Fairly Good,4,Fair,4,Fair,4,Fair,x,Fair,#NAME?,Only Fair
+25,3,Only Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,4,Fair,x,Dull,#NAME?,Only Fair
+26,5,Fairly Good,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Fair,#NAME?,Only Fair
+27,3,Only Fair,5,Fairly Good,3,Only Fair,3,Only Fair,4,Fair,x,Dull,#NAME?,Dull
+28,4,Fair,5,Fairly Good,5,Fairly Good,4,Fair,4,Fair,3,Fair,#NAME?,Only Fair
+29,3,Only Fair,4,Fair,4,Fair,3,Only Fair,4,Fair,x,Dull,#NAME?,Only Fair
+30,2,Poor,5,Fairly Good,4,Fair,3,Only Fair,3,Only Fair,x,Dull,#NAME?,Dull
+31,5,Fairly Good,4,Fair,3,Only Fair,4,Fair,4,Fair,x,Dull,#NAME?,Dull
+32,5,Fairly Good,5,Fairly Good,5,Fairly Good,4,Fair,5,Fairly Good,x,Dull,#NAME?,Only Fair
+33,4,Fair,3,Only Fair,5,Fairly Good,3,Only Fair,4,Fair,x,Bright,#NAME?,Only Fair
+34,5,Fairly Good,5,Fairly Good,3,Only Fair,5,Fairly Good,3,Only Fair,x,Fair,#NAME?,Only Fair
+35,4,Fair,3,Only Fair,4,Fair,4,Fair,4,Fair,x,Bright,#NAME?,Only Fair
+36,4,Fair,3,Only Fair,3,Only Fair,4,Fair,4,Fair,x,Bright,#NAME?,Dull
+37,3,Only Fair,3,Only Fair,3,Only Fair,4,Fair,3,Only Fair,x,Dull,#NAME?,Only Fair
+38,4,Fair,4,Fair,3,Only Fair,4,Fair,4,Fair,x,Bright,#NAME?,Fairly Good
+39,3,Only Fair,4,Fair,x,Fair,5,Fairly Good,4,Fair,x,Fair,#NAME?,Only Fair
+40,4,Fair,3,Only Fair,4,Fair,4,Fair,3,Only Fair,x,Fair,#NAME?,Fairly Good
+41,3,Only Fair,5,Fairly Good,4,Fair,5,Fairly Good,4,Fair,x,Fair,#NAME?,Bright
+42,4,Fair,4,Fair,4,Fair,4,Fair,4,Fair,x,Fair,#NAME?,Dull
+43,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Dull,#NAME?,Bright
+44,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Dull,#NAME?,Bright
+45,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Bright,#NAME?,Bright
+46,3,Only Fair,3,Only Fair,3,Only Fair,3,Only Fair,3,Only Fair,x,Dull,#NAME?,Dull
+47,5,Fairly Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Bright,#NAME?,Fairly Bright
+48,7,Good,5,Fairly Good,5,Fairly Good,7,Good,5,Fairly Good,x,Bright,#NAME?,Bright
+49,3,Only Fair,3,Only Fair,3,Only Fair,3,Only Fair,3,Only Fair,x,Dull,#NAME?,Bright
+50,5,Fairly Good,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Bright,#NAME?,Bright
+51,4,Fair,3,Only Fair,4,Fair,4,Fair,4,Fair,x,Fair,#NAME?,Dull
+52,3,Only Fair,4,Fair,4,Fair,3,Only Fair,4,Fair,x,Fair,#NAME?,Bright
+53,2,Poor,3,Only Fair,3,Only Fair,2,Poor,3,Only Fair,x,Dull,#NAME?,Dull
+54,3,Only Fair,5,Fairly Good,5,Fairly Good,3,Only Fair,4,Fair,x,Dull,#NAME?,Dull
+55,2,Poor,3,Only Fair,3,Only Fair,2,Poor,3,Only Fair,x,Dull,#NAME?,Fair
+56,5,Fairly Good,4,Fair,5,Fairly Good,5,Fairly Good,5,Fairly Good,x,Fair,#NAME?,Dull
+57,3,Only Fair,4,Fair,4,Fair,4,Fair,4,Fair,x,Dull,#NAME?,Dull
+58,5,Fairly Good,5,Fairly Good,5,Fairly Good,4,Fair,5,Fairly Good,x,Bright,#NAME?,Fair
+59,5,Fairly Good,3,Only Fair,3,Only Fair,5,Fairly Good,3,Only Fair,x,Fair,#NAME?,Dull
+60,3,Only Fair,5,Fairly Good,5,Fairly Good,3,Only Fair,5,Fairly Good,x,Dull,#NAME?,Fair
